@@ -21,6 +21,6 @@ while True:
     if name == '':
         break
     catNames = catNames + [name] # list concatenation
-print('THe cat names are:')
+print('The cat names are:')
 for name in catNames:
     print('  ' + name)
